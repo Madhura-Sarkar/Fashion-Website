@@ -1,6 +1,9 @@
 
 # Fashion E-Commerce Website (Frontend)
 
+#view live
+https://playful-mochi-6c8920.netlify.app/
+
 # You can have a view of the website at
 https://madhura-sarkar.github.io/Fashion-Website/
 
